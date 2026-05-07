@@ -1,0 +1,2 @@
+## Record with methods.
+
